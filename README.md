@@ -1,4 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengmeiniu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+**Skills:**
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg"</code>
+  
 ### Hi there 👋
 
 <!--
